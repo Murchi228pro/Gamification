@@ -18,8 +18,8 @@
 
         .ceil {
             display: grid;
-            width: 100px;
-            height: 100px;
+            width: 70px;
+            height: 70px;
             flex-shrink: 0;
             flex-direction: row;
             background-color: darkgray;

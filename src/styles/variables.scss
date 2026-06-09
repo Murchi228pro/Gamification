@@ -1,0 +1,32 @@
+$accent: #cc0000;           // Основной акцент (оставлен примерно тот же)
+$accent-dark: #990000;      // Темный акцент
+$accent-light: #ff3333;     // Светлый акцент
+
+$primary-dark: #2c3e50;     // Темный цвет (вместо #555)
+$primary-main: #34495e;     // Основной цвет
+$primary-light: #ecf0f1;    // Светлый цвет (вместо #FFEEAA)
+
+$secondary-dark: #27ae60;   // Темный вторичный
+$secondary-main: #2ecc71;   // Основной вторичный (зеленый)
+$secondary-light: #d5f4e6;  // Светлый вторичный
+
+$light-text: #ffffff;       // Светлый текст (вместо #FFEEFF)
+$dark-text: #2c3e50;        // Темный текст
+$gray-text: #7f8c8d;        // Серый текст
+$muted-text: #bdc3c7;       // Приглушенный текст
+
+$background-light: #f8f9fa; // Светлый фон
+$background-white: #ffffff; // Белый фон
+$background-dark: #34495e;  // Темный фон
+
+$success: #27ae60;          // Успех
+$warning: #f39c12;          // Предупреждение
+$error: #cc0000;            // Ошибка
+$info: #3498db;             // Информация
+
+$gradient-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+$gradient-accent: linear-gradient(135deg, #cc0000 0%, #990000 100%);
+$gradient-success: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
