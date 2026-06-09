@@ -1,4 +1,4 @@
-<!-- GameRouteCard.vue -->
+
 <template>
   <router-link :to="to" class="game-card">
     <div class="game-card__content">

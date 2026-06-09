@@ -43,7 +43,6 @@ $gray-text: #7f8c8d;
   display: flex;
   flex-direction: column; 
   min-height: 0; 
-  
 }
 
 .profile-card {
